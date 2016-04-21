@@ -1,4 +1,4 @@
-# privoxy-adblock-plus
+# privoxy-adblock
 This is just Easylist converted into Privoxy rules and actions files. The config files will work on any OS Privoxy runs on.
 Just place these files in Privoxy's config directory add them to your Privoxy config like so:
 >actionsfile easylist.script.action
