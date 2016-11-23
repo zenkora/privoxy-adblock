@@ -539,6 +539,7 @@
 \.nu/ads/
 \.nz/ads/
 \.oasfile\.
+\.online/ads/
 \.openad\.
 \.openx\.
 \.openxtag\.
@@ -4343,7 +4344,6 @@
 /insertads\.
 /instreamad/.*
 /intelliad\.
-/intellitext\.
 /interad\.
 /interface/ads/.*
 /intermediate-ad-
@@ -11934,6 +11934,7 @@ _a468x60\.
 .watchcartoononline\.com[/&:?=_].*/530x90\.
 .watchfreemovies\.ch/js/lmst\.js
 .watchop\.com/player/watchonepiece-gao-gamebox\.swf
+.watchseries-online\.nl/cstyles\.js
 .watchseries-online\.se/jquery\.js
 .watchseries\.eu/images/affiliate_buzz\.gif
 .watchseries\.eu/images/download\.png
@@ -14297,6 +14298,10 @@ _a468x60\.
 .go2cloud\.org/aff_i\?
 .googlesyndication\.com/pagead/imgad\?id=
 .googlesyndication\.com/simgad/
+.googlesyndication\.com/simgad/13728906246154688052$
+.googlesyndication\.com/simgad/7375390051936080329$
+.googlesyndication\.com/simgad/781098143614816132$
+.googlesyndication\.com/simgad/781301171516911047$
 .gopjn\.com/b/
 .gotomeeting\.com/images/ad/
 .guardian4\.com/banners/
